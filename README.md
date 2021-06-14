@@ -2,15 +2,15 @@
 
 # Features:
 
-File sharing as per preference
-Cut, copy, paste files or directories
-Create directories
-Delete files or directories
-Upload multiple files
-Download your files
-Login / Register
+File sharing as per preference<br/>
+Cut, copy, paste files or directories<br/>
+Create directories<br/>
+Delete files or directories<br/>
+Upload multiple files<br/>
+Download your files<br/>
+Login / Register<br/>
 
 # Previews:
 
-![plot](./pics/demo.png)
+![plot](./pics/demo.png)<br/>
 ![plot](./pics/demo2.png)
