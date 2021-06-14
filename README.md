@@ -1,4 +1,8 @@
-## Backend of remote storage application developed using node.js
+# Backend of remote storage application developed using node.js
+
+Horizontally scalable remote storage application.<br/>
+Files are stored in GridFS https://docs.mongodb.com/manual/core/gridfs/ . <br/>
+Support for HadoopDFS will be added soon. <br/>
 
 # Features:
 
