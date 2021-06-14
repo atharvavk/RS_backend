@@ -1,3 +1,5 @@
+Frontend repo: https://github.com/atharvavk/RS_frontend
+
 # Backend of remote storage application developed using node.js
 
 Horizontally scalable remote storage application.<br/>
